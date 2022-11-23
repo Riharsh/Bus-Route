@@ -1,0 +1,39 @@
+.banner{
+    background-color:antiquewhite;
+    height: 532px;
+}
+.box{
+        /* position: absolute; */
+        padding-top: 93px;
+        /* border: 1px solid red; */
+        filter: blur(0px);
+        align-items: center;
+        justify-items: center;
+}
+.driver-box{
+    margin: auto;
+    /* padding-top:80px; */
+    width: 1000px;
+    height: 350px;
+    background-color: azure;
+}
+
+.color-box{
+    background-color: aquamarine;
+    height: 5px;
+}
+
+.driver-text{
+    text-align: left;
+    font-size: 20px;
+    padding-left: 30px;
+    font-family: monospace;
+}
+
+/* .campus-box{
+    width: 400px;
+    height: 100px;
+    margin-left: auto;
+    margin-right: auto;
+    border: 1px solid black;
+} */
